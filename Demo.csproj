@@ -10,7 +10,6 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.ML" Version="4.0.0" />
     <PackageReference Include="Microsoft.ML.FastTree" Version="4.0.0" />
-    <PackageReference Include="PLplot" Version="5.13.7" />
   </ItemGroup>
 
 </Project>
