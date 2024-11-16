@@ -23,12 +23,12 @@ This project leverages ML.NET's FastTree regression algorithm to predict taxi fa
 **Running the Project**
 
  1. Clone the repository:
-```git
+```
 git clone https://github.com/girgisadel/RegressionUsingCsharp.git
 cd taxi-fare-prediction
 ```
  2. Build and run the application:
-```git
+```
 dotnet build
 dotnet run
 ```
@@ -38,7 +38,7 @@ dotnet run
 
 The model achieves high accuracy in predicting taxi fares, evaluated against metrics such as:
 
- - **R² Score**: Measures the proportion of variance captured by the model.
+ - **R<sup>2</sup> Score**: Measures the proportion of variance captured by the model.
  - **RMSE (Root Mean Squared Error)**: Quantifies prediction error.
 
 ## Acknowledgments
